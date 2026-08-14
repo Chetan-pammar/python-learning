@@ -1,3 +1,4 @@
+#student eligiblity
 name = input("Enter your name:")
 age = input("Enter your age:").strip()
 completion_12=input("Have you completed 12th?(yes/no):")
