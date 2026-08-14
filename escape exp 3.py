@@ -1,0 +1,6 @@
+print("========STUDENT INFORMATION=========\n")
+name = input("Enter your name:")
+age = int(input("Enter your age:"))
+college = input("Enter your college name:")
+branch = input("Enter your branch:")
+print(f"Name:\t{name}\nAge:\t{age}\nCollege:\t{college}\nBranch:\t{branch}")

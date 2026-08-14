@@ -1,0 +1,1 @@
+print("Name:\tChetan\nAge:\t20\nCountry:\tIndia\nCourse:\tMechanical Engineering")

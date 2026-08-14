@@ -1,0 +1,5 @@
+print("========RECEIPT========")
+item = input("Enter your item brought:")
+price = int(input("Enter the price:"))
+quantity = int(input("Enter the quantity brought:"))
+print(f"Item:\t{item}\nPrice:\t{price}\nQuantity:\t{quantity}\nTotal:\t{price*quantity}")

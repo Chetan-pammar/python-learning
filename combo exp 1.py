@@ -1,0 +1,6 @@
+format = input("Enter your name:")
+name = format.strip().split()
+title= format.strip().title()
+print("First Name:",name[0])
+print("Last Name:",name[1])
+print("Full Name:",title)
