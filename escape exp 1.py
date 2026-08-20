@@ -1,0 +1,1 @@
+print("India\nKarnataka\nMechanical Engineering\nPython" )
